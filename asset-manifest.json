@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/register-page/static/css/main.01ae5268.css",
+    "main.js": "/register-page/static/js/main.3b85b100.js",
+    "static/media/Background.jpg": "/register-page/static/media/Background.92964a631e9d582a8871.jpg",
+    "index.html": "/register-page/index.html",
+    "main.01ae5268.css.map": "/register-page/static/css/main.01ae5268.css.map",
+    "main.3b85b100.js.map": "/register-page/static/js/main.3b85b100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01ae5268.css",
+    "static/js/main.3b85b100.js"
+  ]
+}
